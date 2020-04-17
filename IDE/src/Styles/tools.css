@@ -1,0 +1,25 @@
+.iconTools {
+    height: 50px;
+    width: 50px;
+    /*  */
+    background-color: #719CD9;
+    /*  */
+    border: none;
+    /*  */
+    text-align: center;
+    /*  */
+    transition: ease-out 200ms;
+}
+
+.iconTools:hover {
+    opacity: 90%;
+    cursor: pointer;
+}
+
+ul li {
+    padding: 9px;
+}
+
+li svg {
+    color: #fff;
+}
